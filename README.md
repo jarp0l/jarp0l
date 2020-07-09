@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2> Hi there 👋  </h2>
+
+¯\\_( ͡ᵔ ͜ʖ ͡ᵔ)_/¯
 
 <!--
 **prajolpdn29/prajolpdn29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ... => broadening and improving my skillset. <br>
+🌱 I’m currently learning ... => Python, Dart, Flutter, C, C++, Bf... ;D <br>
+⚡ Fun fact: There really is no fun at all!

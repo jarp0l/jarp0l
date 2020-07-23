@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ... => broadening and improving my skillset. <br>
 🌱 I’m currently learning (<I>trying to learn</I>) ... => Python, C, C++, Bf, Assembly, Dart, Flutter... ;D <br>
-⚡ Fun fact: There really is no fun at all! Just Kiddin' ;)
+⚡ Fun fact: There really is no fun at all! Just Kiddin' ;P

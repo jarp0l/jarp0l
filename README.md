@@ -1,6 +1,10 @@
-<h2> Hi there 👋  </h2>
+## Hi there 👋
 
-¯\\_( ͡ᵔ ͜ʖ ͡ᵔ)_/¯
+¯\\_( ͡ᵔ ͜ʖ ͡ᵔ)_/¯<br>
+.<br>
+.<br>
+.<br>
+[![jarp01's github stats](https://github-readme-stats.vercel.app/api?username=jarp01&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jarp01/jarp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

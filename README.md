@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: There really is no fun at all! Just Kiddin' ; P
 -->
 
+<!---
 <details>
   <summary>CLICK TO EXPAND FOR PGP KEY:</summary>
 
@@ -68,3 +69,4 @@ wasaAmraS3vjJOtfk2xsiSGWXuW5hFdFSqG2/vvGwN6sVYjfwvZLtQNzG99L
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+--->

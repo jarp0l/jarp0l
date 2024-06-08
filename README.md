@@ -68,5 +68,9 @@ wasaAmraS3vjJOtfk2xsiSGWXuW5hFdFSqG2/vvGwN6sVYjfwvZLtQNzG99L
 =cs+I
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
---->
+</details
+
+
+<!-- gif credits: https://tenor.com/view/never-gonna-give-you-up-gif-25181171 -->
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/jarp0l/jarp0l/blob/master/rolling-rick.gif?raw=true');]{x0000}$}

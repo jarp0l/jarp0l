@@ -72,5 +72,12 @@ wasaAmraS3vjJOtfk2xsiSGWXuW5hFdFSqG2/vvGwN6sVYjfwvZLtQNzG99L
 
 
 <!-- gif credits: https://tenor.com/view/never-gonna-give-you-up-gif-25181171 -->
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/jarp0l/jarp0l/blob/master/rolling-rick.gif?raw=true');]{x0000}$}
+<details>
+  <summary>
+    <b>Content hidden due to length, click to open</b>
+  </summary>
+  <br>
+  <img src="https://github.com/jarp0l/jarp0l/blob/master/rolling-rick.gif?raw=true" alt="We're no strangers to love. You know the rules and so do I. A full commitment's what I'm thinking of. You wouldn't get this from any other guy. I just wanna tell you how I'm feeling. Gotta make you understand. Never gonna give you up. Never gonna let you down." />
+
+  LOL
+</details>
